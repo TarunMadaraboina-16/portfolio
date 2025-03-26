@@ -1,3 +1,23 @@
+# 👋 Hello World! I'm Tarun Madaraboina
+
+**Salesforce Developer | Cloud Enthusiast | Problem Solver**  
+*Building bridges between business needs and technical solutions*
+
+🌐 [Portfolio Website](https://yourportfolio.link) | 📧 [Email Me](mailto:Madara24@students.rowan.edu) | 🔗 [LinkedIn](https://www.linkedin.com/in/tarun-madaraboina)
+
+---
+
+## 🚀 My Tech Arsenal
+
+```python
+def my_skills():
+    return {
+        "Salesforce Ecosystem": ["Apex", "SOQL", "Flows", "LWC"],
+        "Cloud": ["Azure", "AWS (Learning)"],
+        "Languages": ["Python", "Java", "SQL", "HTML/CSS"],
+        "Databases": ["MySQL", "MongoDB", "Advanced DB Systems"],
+        "QA Tools": ["Selenium", "Jira", "Test Automation"]
+    }
 # 🚀 Tarun Madaraboina 
 ### *Salesforce Developer | Database Architect | QA Automation Specialist*
 
