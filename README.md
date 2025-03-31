@@ -1,3 +1,41 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=1E90FF&center=true&vCenter=true&width=600&height=80&lines=Hi+there+👋+I'm+Tarun+Madaraboina;Salesforce+Developer+%7C+QA+Engineer+%7C+Cloud+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Glassboro,%20NJ-blue?style=flat&logo=google-maps" alt="Location" />
+  <a href="mailto:Madara24@students.rowan.edu">
+    <img src="https://img.shields.io/badge/Email-Madara24@students.rowan.edu-red?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/tarun-madaraboina">
+    <img src="https://img.shields.io/badge/LinkedIn-Tarun_Madaraboina-0077B5?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Phone-(551)%20338--1652-green?style=flat&logo=telegram" alt="Phone" />
+</div>
+
+<br/>
+
+## � About Me
+
+```python
+class TarunMadaraboina:
+    def __init__(self):
+        self.education = [
+            "M.S. Computer Science, Rowan University (GPA: 3.7)",
+            "B.Tech Electronics & Communication, JNTU (GPA: 8.21)"
+        ]
+        self.skills = {
+            "Salesforce": ["Apex", "Administration", "SOQL", "Flows"],
+            "Programming": ["Python", "Java", "SQL", "PLSQL"],
+            "Web": ["HTML", "CSS"],
+            "Testing": ["Manual Testing", "Selenium"],
+            "Cloud": ["Azure"],
+            "Databases": ["MySQL", "MongoDB", "NoSQL"]
+        }
+        self.current_goal = "Graduating with M.S. in December 2025"
+        
+    def motto(self):
+        return "Building efficient solutions with clean code and robust testing"
 # 👋 Hello World! I'm Tarun Madaraboina
 
 **Salesforce Developer | Cloud Enthusiast | Problem Solver**  
