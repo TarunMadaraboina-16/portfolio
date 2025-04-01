@@ -36,12 +36,6 @@ class TarunMadaraboina:
         
     def motto(self):
         return "Building efficient solutions with clean code and robust testing"
-# 👋 Hello World! I'm Tarun Madaraboina
-
-**Salesforce Developer | Cloud Enthusiast | Problem Solver**  
-*Building bridges between business needs and technical solutions*
-
-🌐 [Portfolio Website](https://yourportfolio.link) | 📧 [Email Me](mailto:Madara24@students.rowan.edu) | 🔗 [LinkedIn](https://www.linkedin.com/in/tarun-madaraboina)
   
   ![Eat Sleep Code Repeat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2N0b3FjY2R1dWl4b2J1dW9oY3V4Y2N4eGx2eGJjZzJ5dW1mY3V6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU7JI8Afp8n3TOY/giphy.gif)
 </div>
