@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Tarun_Profile_Pic.jpeg" alt="Tarun Madaraboina" width="250" style="border-radius: 10px;" />
+  <img src="profile.jpeg" alt="Tarun Madaraboina" width="250" style="border-radius: 10px;" />
 </p>
 
 ## 👋 Hi there, I'm Tarun Madaraboina
