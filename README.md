@@ -1,125 +1,100 @@
 
+<h1 align="center">Hey there, I'm Tarun Madaraboina 👨‍💻</h1>
 <p align="center">
-  <img src="profile.jpeg" alt="Tarun Madaraboina" width="250" style="border-radius: 10px;" />
+  <img src="Tarun_Profile_Pic.jpeg" width="200" alt="Tarun's Avatar" style="border-radius: 50%; border: 3px solid #1e90ff;" />
 </p>
 
-## 👋 Hi there, I'm Tarun Madaraboina
+<p align="center">
+  <em>
+    Passionate about turning 💡 ideas into elegant solutions.<br>
+    A curious tech explorer 🚀 focused on building scalable, secure systems in the cloud 🌩️.
+  </em>
+</p>
 
 ---
 
-## 💡 Motto
-*"Good code is its own best documentation." - Steve McConnell*
+### 📫 How to reach me
+
+<p align="center">
+  <a href="mailto:Madara24@students.rowan.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tarun-madaraboina">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Glassboro,%20NJ-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 ---
 
-## 🧠 About Me
+### 🔧 My Toolbox
 
-```python
-class TarunMadaraboina:
-    def __init__(self):
-        self.education = [
-            "M.S. Computer Science, Rowan University (GPA: 3.7)",
-            "B.Tech Electronics & Communication, JNTU (GPA: 8.21)"
-        ]
-        self.skills = {
-            "Salesforce": ["Apex", "Administration", "SOQL", "Flows"],
-            "Programming": ["Python", "Java", "SQL", "PLSQL"],
-            "Web": ["HTML", "CSS"],
-            "Testing": ["Manual Testing", "Selenium"],
-            "Cloud": ["Azure"],
-            "Databases": ["MySQL", "MongoDB", "NoSQL"]
-        }
-        self.current_goal = "Graduating with M.S. in December 2025"
-
-    def motto(self):
-        return "Building efficient solutions with clean code and robust testing"
-```
+| Category       | Tools & Languages |
+|----------------|------------------|
+| 🛠️ Languages    | `Python`, `Java`, `SQL`, `HTML`, `CSS`, `PLSQL` |
+| ☁️ Cloud & DevOps | `Azure`, `AWS (learning)`, `Salesforce`, `REST/SOAP APIs` |
+| 🧪 QA & Testing | `Selenium`, `Jira`, `Manual Testing`, `Test Automation` |
+| 💾 Databases    | `MySQL`, `MongoDB`, `NoSQL`, `Advanced DB Systems` |
+| 🎯 CRM Tools    | `Apex`, `SOQL`, `LWC`, `Flows`, `Admin Config` |
 
 ---
 
-## 👨‍💻 Developer Mantra
+### 🛠️ Work Experience
 
-- 🥗 Eat  
-- 😴 Sleep  
-- 👨‍💻 Code  
-- 🔁 Repeat  
+**Salesforce Apex Developer** @ TCS (2023)
+- ⚡ Improved payment success rate by 15% through trigger optimization  
+- 🌐 Built & integrated APIs (Stripe, Fifth-third)  
+- 📊 Boosted performance by optimizing SOQL and custom validations  
 
----
+**Salesforce Administrator** @ TCS (2022–2023)  
+- 🔐 Configured security roles for 100+ users  
+- 📉 Reduced payment failures by 40% via RCA workflows  
 
-## 🚀 Tech Arsenal
-
-```python
-def my_skills():
-    return {
-        "Salesforce Ecosystem": ["Apex", "SOQL", "Flows", "LWC"],
-        "Cloud": ["Azure", "AWS (Learning)"],
-        "Languages": ["Python", "Java", "SQL", "HTML/CSS"],
-        "Databases": ["MySQL", "MongoDB", "Advanced DB Systems"],
-        "QA Tools": ["Selenium", "Jira", "Test Automation"]
-    }
-```
+**QA Engineer** @ TCS (2021–2022)  
+- 🤖 Automated 50+ test cases using Selenium  
+- 👥 Mentored 15+ new hires in QA fundamentals
 
 ---
 
-## 🎓 Education
+### 🚀 Projects
 
-| Institution      | Degree                            | GPA  | Timeline            |
-| ---------------- | --------------------------------- | ---- | ------------------- |
-| Rowan University | MS Computer Science               | 3.7  | Dec 2025 (Expected) |
-| JNTU             | BTech Electronics & Communication | 8.21 | May 2020            |
+**📚 Student DBMS (MySQL, Web)**  
+Built a full-stack database application with real-time triggers  
+[🔗 Demo](http://elvis.rowan.edu/~Madara24/advanceddatabases/finalproject/)
 
----
-
-## 💻 Technical Skills
-
-**Core Competencies**  
-- Salesforce: Apex, SOQL, Flows, LWC  
-- Programming: Python, Java, SQL, HTML/CSS  
-- Testing: Selenium, Jira, Manual & Automation  
-- Databases: MySQL, MongoDB, NoSQL  
-- Cloud: Azure, AWS (Learning)
+**🤖 Embedded Robotics (8051 MCU)**  
+Created a wireless robotic control interface using microcontrollers and C
 
 ---
 
-## 💼 Professional Journey
+### 📈 GitHub Stats
 
-### ⚡ Salesforce Apex Developer @ TCS *(Mar 2023 - Sep 2023)*
-- Boosted payment success rates by **15%** with optimized Apex triggers  
-- Integrated payment gateways via **REST/SOAP APIs** (Stripe, Fifth-third)  
-- Reduced API latency by **20%** through SOQL optimization  
-- Enhanced data accuracy by **25%** with custom validation rules  
-
-### 🛠️ Salesforce Administrator @ TCS *(Feb 2022 - Mar 2023)*
-- Built intelligence dashboards for real-time payment tracking  
-- Reduced payment failures by **40%** through RCA  
-- Managed security configurations for 100+ users  
-
-### 🔍 Quality Assurance Engineer @ TCS *(Mar 2021 - Feb 2022)*
-- Automated 50+ test cases using Selenium/Python  
-- Mentored 15+ new hires in testing methodologies  
-- Managed end-to-end testing for 5 major releases  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarunmadaraboina&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tarunmadaraboina&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧪 Project Showcase
+### 🎓 Education
 
-### 📚 Student Database Management System
-- Designed normalized schemas for efficient data storage  
-- Implemented automated triggers for data management  
-- 🔗 [Live Demo](http://elvis.rowan.edu/~Madara24/advanceddatabases/finalproject/)
-
-### 🤖 Embedded Robotics Solution
-- Developed wireless control system using 8051 microcontrollers  
-- Integrated hardware and software components  
+| Degree | Institution | GPA | Year |
+|--------|-------------|-----|------|
+| MS in Computer Science | Rowan University | 3.7 | Dec 2025 (Expected) |
+| B.Tech in ECE | JNTU | 8.21 | 2020 |
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
-```diff
-+ Special Achievement Award @ TCS (2022)
-+ Applause Award @ TCS (2022)
-+ NCL Spring 2024 Certification
-```
+- 🥇 Special Achievement Award – TCS 2022  
+- 👏 Applause Award – TCS 2022  
+- 💻 NCL Spring 2024 Cybersecurity Certification  
 
 ---
+
+### 🎨 Fun Fact
+> I code better with music, coffee, and a bit of chaos ☕🎧
+
+---
+
