@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there, I'm Tarun Madaraboina 👨‍💻</h1>
 <p align="center">
-  <img src="Tarun_Profile_Pic.jpeg" width="200" alt="Tarun's Avatar" style="border-radius: 50%; border: 3px solid #1e90ff;" />
+  <img src="profile.jpeg" width="200" alt="Tarun's Avatar" style="border-radius: 50%; border: 3px solid #1e90ff;" />
 </p>
 
 <p align="center">
