@@ -41,16 +41,13 @@
 
 ### 🛠️ Work Experience
 
-**Salesforce Apex Developer** @ TCS (2023)
+**Software engineer / Salesforce Developer** @ TCS (2021-2023)
 - ⚡ Improved payment success rate by 15% through trigger optimization  
 - 🌐 Built & integrated APIs (Stripe, Fifth-third)  
 - 📊 Boosted performance by optimizing SOQL and custom validations  
-
-**Salesforce Administrator** @ TCS (2022–2023)  
 - 🔐 Configured security roles for 100+ users  
 - 📉 Reduced payment failures by 40% via RCA workflows  
 
-**QA Engineer** @ TCS (2021–2022)  
 - 🤖 Automated 50+ test cases using Selenium  
 - 👥 Mentored 15+ new hires in QA fundamentals
 
